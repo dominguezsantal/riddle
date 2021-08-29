@@ -1,0 +1,23 @@
+{
+    "riddles": [{
+            "riddle": "What starts with e, ends with e, and contains one letter?",
+            "answer": "Envelope"
+        },
+        {
+            "riddle": "What's black and white, and red all over?",
+            "answer": "a penguin in a Blender"
+        },
+        {
+            "riddle": "A rooster lays an egg on top of a roof, facing east. Which direction does the egg roll off the roof?",
+            "answer": "Roosters don't lay eggs"
+        },
+        {
+            "riddle": "Where there's rivers but no waters, there are cities but no buildings, there are forest but no trees.",
+            "answer": "a map"
+        },
+        {
+            "riddle": "What month of the year has 28 days?",
+            "answer": "all of them"
+        }
+    ]
+}

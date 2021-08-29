@@ -1,0 +1,15 @@
+/Users/alexdominguez/Desktop/riddle/obj/Debug/net5.0/riddle.csprojAssemblyReference.cache
+/Users/alexdominguez/Desktop/riddle/obj/Debug/net5.0/riddle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexdominguez/Desktop/riddle/obj/Debug/net5.0/riddle.AssemblyInfoInputs.cache
+/Users/alexdominguez/Desktop/riddle/obj/Debug/net5.0/riddle.AssemblyInfo.cs
+/Users/alexdominguez/Desktop/riddle/obj/Debug/net5.0/riddle.csproj.CoreCompileInputs.cache
+/Users/alexdominguez/Desktop/riddle/bin/Debug/net5.0/riddle.deps.json
+/Users/alexdominguez/Desktop/riddle/bin/Debug/net5.0/riddle.runtimeconfig.json
+/Users/alexdominguez/Desktop/riddle/bin/Debug/net5.0/riddle.runtimeconfig.dev.json
+/Users/alexdominguez/Desktop/riddle/bin/Debug/net5.0/riddle.dll
+/Users/alexdominguez/Desktop/riddle/bin/Debug/net5.0/ref/riddle.dll
+/Users/alexdominguez/Desktop/riddle/bin/Debug/net5.0/riddle.pdb
+/Users/alexdominguez/Desktop/riddle/obj/Debug/net5.0/riddle.dll
+/Users/alexdominguez/Desktop/riddle/obj/Debug/net5.0/ref/riddle.dll
+/Users/alexdominguez/Desktop/riddle/obj/Debug/net5.0/riddle.pdb
+/Users/alexdominguez/Desktop/riddle/obj/Debug/net5.0/riddle.genruntimeconfig.cache
